@@ -1,0 +1,27 @@
+{
+  "name": "pracrice-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node main.ts",
+    "start:dev": "nodemon -w main.ts -x \"npm start\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magdalena-Ch/rxjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magdalena-Ch/rxjs/issues"
+  },
+  "homepage": "https://github.com/Magdalena-Ch/rxjs#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2",
+    "rxjs": "^6.5.4",
+    "ts-node": "^8.6.0",
+    "typescript": "^3.7.4"
+  }
+}
