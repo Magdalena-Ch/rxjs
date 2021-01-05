@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Magdalena-Ch/rxjs#readme",
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "node-fetch": "^2.6.0",
     "nodemon": "^2.0.2",
     "rxjs": "^6.5.4",
